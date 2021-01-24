@@ -1,0 +1,22 @@
+note craete Rest API NodeJs :
+- create folder name_folder
+- cd to folder
+- npm init --yes
+install framework API NodeJs :
+- npm install express
+- create file index.js 
+- access web http://localhost:3000
+- access URL API http://localhost:3000/api/courses
+
+install tools for monitor :
+- npm install -g nodemon
+
+create environtment variable :
+
+add librarie validate
+- npm install joi
+- npm install joi@17.3.0
+
+fix bug referensi link :
+- https://stackoverflow.com/questions/58041234/nestjs-pipe-joi-validate-is-not-a-function
+- https://stackoverflow.com/questions/57956609/joi-1-default-validate-is-not-a-function
